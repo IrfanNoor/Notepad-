@@ -1,0 +1,12 @@
+C:\Users\Ch Irfan\Desktop\Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\Ch Irfan\Desktop\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\Ch Irfan\Desktop\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\Ch Irfan\Desktop\Notepad\Notepad\obj\Debug\Notepad.csprojResolveAssemblyReference.cache
+C:\Users\Ch Irfan\Desktop\Notepad\Notepad\obj\Debug\Notepad.Form1.resources
+C:\Users\Ch Irfan\Desktop\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\Ch Irfan\Desktop\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.Cache
+C:\Users\Ch Irfan\Desktop\Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\Ch Irfan\Desktop\Notepad\Notepad\obj\Debug\Notepad.pdb
+C:\Users\Ch Irfan\Desktop\Notepad\Notepad\obj\Debug\Notepad.About.resources
+C:\Users\Ch Irfan\Desktop\Notepad\Notepad\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Ch Irfan\Desktop\Notepad\Notepad\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
